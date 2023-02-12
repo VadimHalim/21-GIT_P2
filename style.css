@@ -1,0 +1,49 @@
+body {
+    font-family: 'Arial Narrow';
+}
+div {
+    color: white;
+}
+.block {
+    width: 500px;
+    background-color: rgb(211, 136, 136);
+    margin: 40px;
+    padding: 20px;
+    font-size: 20px;
+}
+ol {
+    border: 1px solid rgb(211, 136, 136);
+    background-color: rgb(194, 92, 92);
+    margin: 10px;
+    margin-left: 5px;
+}
+#class {
+    border: 1px solid rgb(187, 10, 10);
+    margin-right: 370px;
+    background-color: rgb(187, 10, 10);
+    text-indent: 10px;
+}
+#class2 {
+    border: 1px solid rgb(187, 10, 10);
+    margin-right: 360px;
+    background-color: rgb(187, 10, 10);
+    text-indent: 10px;
+}
+#class3 {
+    border: 1px solid rgb(187, 10, 10);
+    margin-right: 340px;
+    background-color: rgb(187, 10, 10);
+    text-indent: 10px;
+}
+#class4 {
+    border: 1px solid rgb(187, 10, 10);
+    margin-right: 380px;
+    background-color: rgb(187, 10, 10);
+    text-indent: 10px;
+}
+#class5 {
+    border: 1px solid rgb(187, 10, 10);
+    margin-right: 360px;
+    background-color: rgb(187, 10, 10);
+    text-indent: 10px;
+}
